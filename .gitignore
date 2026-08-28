@@ -1,0 +1,16 @@
+# Generated executable and release archive
+/TFTDx11Watcher.exe
+/TFTDx11Watcher.zip
+
+# Local performance logs
+/*.blg
+
+# MSVC/Windows build intermediates
+*.obj
+*.res
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.map
+*.tlog
